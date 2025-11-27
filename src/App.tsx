@@ -7,7 +7,7 @@ const App = () => {
         Donde la información se convierte en conocimiento
       </p>
 
-      {/* === PRIMERA FILA DE 3 CARDS === */}
+ 
       <div className="row mt-4">
 
         <div className="col-md-4 mb-4">
@@ -42,7 +42,7 @@ const App = () => {
 
       </div>
 
-      {/* === SEGUNDA FILA DE 3 CARDS === */}
+      
       <div className="row">
 
         <div className="col-md-4 mb-4">
